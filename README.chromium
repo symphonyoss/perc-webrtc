@@ -3,6 +3,7 @@ URL: http://www.webrtc.org
 Version: 90
 License: BSD
 License File: LICENSE
+FINOS: Archived https://finosfoundation.atlassian.net/wiki/display/FINOS/Archived
 
 Description:
 WebRTC provides real time voice and video processing
